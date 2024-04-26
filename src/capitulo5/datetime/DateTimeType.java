@@ -5,7 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class DateTimeType {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Date date1 = new Date();
         System.out.println(date1.toString());
 
